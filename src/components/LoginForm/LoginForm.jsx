@@ -22,7 +22,7 @@ const LoginForm = () => {
   });
 
   //functions
-  console.log(errors);
+
   const onSubmit = (data) => console.log(data);
 
   return (
